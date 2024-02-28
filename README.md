@@ -1,2 +1,2 @@
-# Snakes-and-Ladders-Kata-
+# Snakes-and-Ladders-Kata
 Kata from Codewars
